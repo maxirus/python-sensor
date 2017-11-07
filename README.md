@@ -17,6 +17,9 @@ Any and all feedback is welcome.  Happy Python visibility.
 
 ## Installation
 
+RHEL/CentOS: `sudo yum install python-devel`
+Ubuntu: `sudo apt-get install python-dev`
+
 `pip install instana` into the virtual-env or container ([hosted on pypi](https://pypi.python.org/pypi/instana))
 
 ## Django
